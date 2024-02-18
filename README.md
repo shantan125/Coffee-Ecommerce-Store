@@ -37,7 +37,7 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 - Icons: [Font Awesome](https://fontawesome.com/)
 
 ## Contact
-If you have any questions, feedback, or just want to say hello, you can reach out to me at [shantan125@example.com](mailto:shantan125@example.com).
+If you have any questions, feedback, or just want to say hello, you can reach out to me at [shantan125@example.com](mailto:shantan125@gmail.com).
 
 ---
 
